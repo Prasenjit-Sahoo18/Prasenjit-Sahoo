@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Prasenjit Sahoo</h1>
 <h3 align="center">Welcome to my profile....Future Android developer passionate in innovating in mobile and Cloud technologies || Cloud and DevOps Enthusiast</h3>
+<img src="https://www.google.com/imgres?q=%20best%20ai%20animated%20technology%20pictures%20for%20android%20developer&imgurl=https%3A%2F%2Fwww.shutterstock.com%2Fimage-vector%2Fai-helps-programmer-creates-software-600nw-2391116587.jpg&imgrefurl=https%3A%2F%2Fwww.shutterstock.com%2Fsearch%2Fai-app-development&docid=dWo0h2_h5eDK7M&tbnid=N7qUxcuUTi4nxM&vet=12ahUKEwifv_2Yne6LAxWRRmwGHS8rPFMQM3oECBkQAA..i&w=600&h=299&hcb=2&ved=2ahUKEwifv_2Yne6LAxWRRmwGHS8rPFMQM3oECBkQAA"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prasenjit-sahoo18&label=Profile%20views&color=0e75b6&style=flat" alt="prasenjit-sahoo18" /> </p>
 
