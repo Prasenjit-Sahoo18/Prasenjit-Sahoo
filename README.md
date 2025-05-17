@@ -1,22 +1,7 @@
 <h1 align="center">Hi 👋, I'm Prasenjit Sahoo</h1>
 <h3 align="center">Welcome to my profile....Future Android developer passionate in innovating in mobile and Cloud technologies || Cloud and DevOps Enthusiast</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=prasenjit-sahoo18&label=Profile%20views&color=0e75b6&style=flat" alt="prasenjit-sahoo18" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prasenjit-sahoo18" alt="prasenjit-sahoo18" /></a> </p>
-
-- 🌱 I’m currently learning **DSA & android development,WEB3 I'd like to learn next AWS,DOCKER,KUBERNETES,LINUX,NODEJS, java backend SPRINGBOOT**
-
-- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/prasenjit-sahoo18/](https://www.linkedin.com/in/prasenjit-sahoo18/)
-
-- 💬 Ask me about **HTML,CSS,JAVA,DART,Javascript,DSA**
-
-- 📫 How to reach me **mukeshsahoo902@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/prasenjit-sahoo18/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/prasenjit-sahoo18/" height="30" width="40" /></a>
-</p>
 
 # Hi 👋, I'm Prasenjit Sahoo
 
