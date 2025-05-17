@@ -15,10 +15,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prasenjit-Sahoo18&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" />
 </div>
 
-### 🏢 Developer Room
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Prasenjit-Sahoo18&theme=github-compact&hide_border=true&area=true" alt="GitHub Activity Graph" />
-</div>
 
 ## 🚀 About Me
 
