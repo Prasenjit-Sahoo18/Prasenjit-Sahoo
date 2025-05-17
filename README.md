@@ -15,11 +15,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prasenjit-Sahoo18&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" />
 </div>
 
-### 🎵 Spotify Activity
-<div align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=31mqwi5kquscwlngkzzog4n7eksq&count=1&width=400" alt="Spotify Recently Played" />
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=31mqwi5kquscwlngkzzog4n7eksq&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false" alt="Spotify Stats" />
-</div>
+
 
 ## 🚀 About Me
 
