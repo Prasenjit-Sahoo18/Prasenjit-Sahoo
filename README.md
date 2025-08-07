@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Prasenjit Sahoo</h1>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Prasenjit-Sahoo18&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=Prasenjit-Sahoo18&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
 <h3 align="center">Welcome to my profile....Future Android developer passionate in innovating in mobile and Cloud technologies || Cloud and DevOps Enthusiast</h3>
 # Hi 👋, I'm Prasenjit Sahoo
@@ -11,7 +11,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Prasenjit-Sahoo18&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Prasenjit-Sahoo18&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=Prasenjit-Sahoo18&theme=radical&hide_border=true" alt="GitHub Streak" />
 </div>
 
 <div align="center">
