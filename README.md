@@ -1,4 +1,3 @@
-
 <h1 align="center">Hi 👋, I'm Prasenjit Sahoo</h1>
 <h3 align="center">Android & Cross‑platform (React Native, Flutter) developer • Full‑stack builder • Cloud & DevOps enthusiast</h3>
 
@@ -75,22 +74,26 @@ I build user‑centric mobile and web apps with a strong focus on scalability, p
 
 ### 🏆 Featured Project
 
-#### Foodiez — Full‑stack food delivery app
+#### CodeBuzz — AI‑powered competitive coding platform
 <div align="left">
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" alt="Prisma" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Frontend-HTML%20%2F%20CSS%20%2F%20JavaScript-2965f1?style=for-the-badge&logo=html5&logoColor=white" alt="HTML/CSS/JS" />
+  <img src="https://img.shields.io/badge/Backend-Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
+  <img src="https://img.shields.io/badge/Database-SQLite%20%7C%20PostgreSQL-4479A1?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite/PostgreSQL" />
+  <img src="https://img.shields.io/badge/AI-Google%20Gemini-34A853?style=for-the-badge&logo=google&logoColor=white" alt="Google Gemini" />
+  <img src="https://img.shields.io/badge/Proctoring-MediaPipe%20%2F%20OpenCV-FF6F00?style=for-the-badge&logo=googlegemini&logoColor=white" alt="MediaPipe/OpenCV" />
+  <img src="https://img.shields.io/badge/Code_Execution-HackerEarth_API-2C3E50?style=for-the-badge" alt="HackerEarth API" />
+  <img src="https://img.shields.io/badge/Hosting-Render-46E3B7?style=for-the-badge&logo=render&logoColor=white" alt="Render" />
 </div>
 
 Key features:
-- Authentication & authorization
-- Real‑time menu management
-- Order tracking
-- Responsive UI
-- Payment flow
+- Real‑time camera proctoring for fair contests
+- Regular coding contests and company‑tagged problems
+- AI‑powered step‑by‑step solution guidance (premium)
+- Online coding IDE with syntax highlighting and execution
+- User management, subscriptions, and secure auth
 
-[![Live Demo](https://img.shields.io/badge/Live_Demo-00C853?style=for-the-badge&logo=vercel&logoColor=white)](https://foodiez-project-master.vercel.app)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-00C853?style=for-the-badge&logo=google-chrome&logoColor=white)](https://codebuzz-puep.onrender.com/)
+[![Repository](https://img.shields.io/badge/GitHub_Repo-CodeBuzz49-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Prasenjit-Sahoo18/CodeBuzz49)
 
 ### 📫 Connect With Me
 <div align="left">
@@ -114,7 +117,6 @@ Key features:
 <div align="center">
   <sub>⭐️ from <a href="https://github.com/Prasenjit-Sahoo18">Prasenjit-Sahoo18</a></sub>
 </div>
-
 
 
 
