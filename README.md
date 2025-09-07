@@ -1,12 +1,9 @@
+
 <h1 align="center">Hi 👋, I'm Prasenjit Sahoo</h1>
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Prasenjit-Sahoo18&theme=radical&hide_border=true" alt="GitHub Streak" />
-</p>
-<h3 align="center">Welcome to my profile....Future Android developer passionate in innovating in mobile and Cloud technologies || Cloud and DevOps Enthusiast</h3>
-# Hi 👋, I'm Prasenjit Sahoo
+<h3 align="center">Android & Cross‑platform (React Native, Flutter) developer • Full‑stack builder • Cloud & DevOps enthusiast</h3>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=40&pause=1000&color=2E8B57&center=true&vCenter=true&width=600&height=100&lines=Full+Stack+Developer;Cloud+Enthusiast;Open+Source+Contributor" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=32&pause=1000&color=2E8B57&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Cloud+and+DevOps+Enthusiast;Open+Source+Contributor" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -18,38 +15,34 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prasenjit-Sahoo18&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" />
 </div>
 
-
 ## 🚀 About Me
 
-I'm a passionate developer focused on building innovative web and mobile applications. Currently exploring the exciting world of cloud technologies and DevOps practices. I love creating efficient, scalable solutions and contributing to open-source projects.
+I build user‑centric mobile and web apps with a strong focus on scalability, performance, and clean architecture. I’m actively exploring cloud platforms and DevOps practices to ship faster and more reliably.
 
 ### 🛠️ Tech Stack
 
-#### Frontend Development
+#### Mobile
+<div align="left">
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android" />
+</div>
+
+#### Frontend
 <div align="left">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
 </div>
 
-#### Backend Development
+#### Backend
 <div align="left">
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
-</div>
-
-#### Mobile Development
-<div align="left">
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android" />
 </div>
 
 #### Cloud & DevOps
@@ -58,6 +51,13 @@ I'm a passionate developer focused on building innovative web and mobile applica
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions" />
+  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform" />
+  <img src="https://img.shields.io/badge/Amazon_S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white" alt="Amazon S3" />
+  <img src="https://img.shields.io/badge/AWS_Lambda-FF9900?style=for-the-badge&logo=aws-lambda&logoColor=white" alt="AWS Lambda" />
+  <img src="https://img.shields.io/badge/Amazon_EC2-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="Amazon EC2" />
+  <img src="https://img.shields.io/badge/Amazon_RDS-527FFF?style=for-the-badge&logo=amazonrds&logoColor=white" alt="Amazon RDS" />
+  <img src="https://img.shields.io/badge/Amazon_CloudFront-8C4FFF?style=for-the-badge&logo=amazonaws&logoColor=white" alt="Amazon CloudFront" />
 </div>
 
 #### Databases
@@ -68,23 +68,14 @@ I'm a passionate developer focused on building innovative web and mobile applica
 </div>
 
 ### 🌱 Currently Learning
-- 📱 DSA & Android Development
-- 🔗 Web3 Technologies
-- ☁️ AWS Cloud Services
-- 🐳 Docker & Kubernetes
-- 🐧 Linux System Administration
-- ⚡ Node.js Backend Development
-- 🌿 Spring Boot
+- DSA and Android development
+- AWS cloud services
+- Docker & Kubernetes
+- Node.js backend and DevOps (GitHub Actions, Terraform)
 
-### 💼 Professional Experience
-- 🏗️ Building full-stack web applications
-- 📱 Developing mobile applications with Flutter
-- ☁️ Working with cloud technologies
-- 🔄 Implementing DevOps practices
+### 🏆 Featured Project
 
-### 🏆 Featured Projects
-
-#### 1. Foodiez - Full Stack Food Delivery Application
+#### Foodiez — Full‑stack food delivery app
 <div align="left">
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
@@ -92,14 +83,14 @@ I'm a passionate developer focused on building innovative web and mobile applica
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
 </div>
 
-**Features:**
-- User authentication and authorization
-- Real-time menu management
-- Order tracking system
-- Responsive design
-- Payment integration
+Key features:
+- Authentication & authorization
+- Real‑time menu management
+- Order tracking
+- Responsive UI
+- Payment flow
 
-[![Live Demo](https://img.shields.io/badge/Live_Demo-00FF00?style=for-the-badge&logo=vercel&logoColor=white)](https://foodiez-project-master.vercel.app)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-00C853?style=for-the-badge&logo=vercel&logoColor=white)](https://foodiez-project-master.vercel.app)
 
 ### 📫 Connect With Me
 <div align="left">
@@ -114,23 +105,19 @@ I'm a passionate developer focused on building innovative web and mobile applica
   </a>
 </div>
 
-### 📚 Education
-- 🎓 Pursuing Computer Science degree
-- 📚 Self-taught in various programming languages and frameworks
-
-### 🌟 Goals
-- 🎯 Master cloud technologies and DevOps practices
-- 🤝 Contribute to open-source projects
-- 🚀 Build scalable and efficient applications
-- 📈 Learn and implement best practices in software development
-
 ---
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Prasenjit-Sahoo18&style=for-the-badge&color=blueviolet" alt="Profile Views" />
 </div>
 
-⭐️ From [Prasenjit-Sahoo18](https://github.com/Prasenjit-Sahoo18)
+<div align="center">
+  <sub>⭐️ from <a href="https://github.com/Prasenjit-Sahoo18">Prasenjit-Sahoo18</a></sub>
+</div>
+
+
+
+
 
 
 
