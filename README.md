@@ -5,6 +5,10 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=32&pause=1000&color=2E8B57&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Cloud+and+DevOps+Enthusiast;Open+Source+Contributor" alt="Typing SVG" />
 </div>
 
+<p align="center">
+  <img src="./images.dev.jpg" alt="Prasenjit Sahoo – Developer banner" width="900" />
+</p>
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Prasenjit-Sahoo18&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
   <img src="https://streak-stats.demolab.com/?user=Prasenjit-Sahoo18&theme=radical&hide_border=true" alt="GitHub Streak" />
@@ -117,7 +121,6 @@ Key features:
 <div align="center">
   <sub>⭐️ from <a href="https://github.com/Prasenjit-Sahoo18">Prasenjit-Sahoo18</a></sub>
 </div>
-
 
 
 
