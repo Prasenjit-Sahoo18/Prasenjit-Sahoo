@@ -27,6 +27,20 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Prasenjit-Sahoo18&theme=radical" alt="Profile Details" />
 </div>
 
+---
+
+### ✨ What I'm focusing on
+
+- Building `xray-setu`: AI-assisted medical image analysis toolkit.
+- Growing `javascripts-js`: Handy JS snippets and mini projects.
+- Upskilling in DSA, Android, AWS and modern DevOps.
+
+### 🤝 Open to collaborate on
+
+- React Native / Flutter apps with clean architecture
+- Full‑stack Node.js / Django projects
+- Cloud & DevOps (AWS, Docker, CI/CD)
+
 ## 🚀 About Me
 
 I build user‑centric mobile and web apps with a strong focus on scalability, performance, and clean architecture. I’m actively exploring cloud platforms and DevOps practices to ship faster and more reliably.
@@ -150,8 +164,6 @@ Key features:
 <div align="center">
   <sub>⭐️ from <a href="https://github.com/Prasenjit-Sahoo18">Prasenjit-Sahoo18</a></sub>
 </div>
-
-
 
 
 
