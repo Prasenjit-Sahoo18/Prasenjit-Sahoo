@@ -10,12 +10,21 @@
 </p>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Prasenjit-Sahoo18&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+  <img src="https://img.shields.io/github/followers/Prasenjit-Sahoo18?style=for-the-badge&color=blue" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/Prasenjit-Sahoo18?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&color=gold" alt="Total Stars" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Prasenjit-Sahoo18&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
   <img src="https://streak-stats.demolab.com/?user=Prasenjit-Sahoo18&theme=radical&hide_border=true" alt="GitHub Streak" />
 </div>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prasenjit-Sahoo18&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Prasenjit-Sahoo18&theme=radical" alt="Profile Details" />
 </div>
 
 ## 🚀 About Me
@@ -99,6 +108,22 @@ Key features:
 [![Live Demo](https://img.shields.io/badge/Live_Demo-00C853?style=for-the-badge&logo=google-chrome&logoColor=white)](https://codebuzz-puep.onrender.com/)
 [![Repository](https://img.shields.io/badge/GitHub_Repo-CodeBuzz49-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Prasenjit-Sahoo18/CodeBuzz49)
 
+### 📌 Pinned Repositories
+
+<div align="left">
+  <a href="https://github.com/Prasenjit-Sahoo18/CodeBuzz49">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Prasenjit-Sahoo18&repo=CodeBuzz49&theme=radical&hide_border=true" alt="CodeBuzz49" />
+  </a>
+  <a href="https://github.com/Prasenjit-Sahoo18/xray-setu">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Prasenjit-Sahoo18&repo=xray-setu&theme=radical&hide_border=true" alt="xray-setu" />
+  </a>
+  <a href="https://github.com/Prasenjit-Sahoo18/javascripts-js">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Prasenjit-Sahoo18&repo=javascripts-js&theme=radical&hide_border=true" alt="javascripts-js" />
+  </a>
+</div>
+
+> More projects on my GitHub profile → <a href="https://github.com/Prasenjit-Sahoo18?tab=repositories">View all repositories</a>
+
 ### 📫 Connect With Me
 <div align="left">
   <a href="https://www.linkedin.com/in/prasenjit-sahoo18/">
@@ -119,8 +144,17 @@ Key features:
 </div>
 
 <div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Prasenjit-Sahoo18&theme=radical&margin-w=8&row=1&no-frame=true" alt="GitHub Trophies" />
+</div>
+
+<div align="center">
   <sub>⭐️ from <a href="https://github.com/Prasenjit-Sahoo18">Prasenjit-Sahoo18</a></sub>
 </div>
+
+
+
+
+
 
 
 
