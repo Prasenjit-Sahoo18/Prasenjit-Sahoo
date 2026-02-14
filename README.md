@@ -138,9 +138,7 @@ Key features:
   <a href="https://github.com/Prasenjit-Sahoo18/xray-setu">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Prasenjit-Sahoo18&repo=xray-setu&theme=radical&hide_border=true" alt="xray-setu" />
   </a>
-  <a href="https://github.com/Prasenjit-Sahoo18/javascripts-js">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Prasenjit-Sahoo18&repo=javascripts-js&theme=radical&hide_border=true" alt="javascripts-js" />
-  </a>
+
 </div>
 
 > More projects on my GitHub profile → <a href="https://github.com/Prasenjit-Sahoo18?tab=repositories">View all repositories</a>
