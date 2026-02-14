@@ -1,3 +1,4 @@
+
 <h1 align="center">Hi 👋, I'm Prasenjit Sahoo</h1>
 <h3 align="center">Android & Cross‑platform (React Native, Flutter) developer • Full‑stack builder • Cloud & DevOps enthusiast</h3>
 
@@ -168,14 +169,6 @@ Key features:
 <div align="center">
   <sub>⭐️ from <a href="https://github.com/Prasenjit-Sahoo18">Prasenjit-Sahoo18</a></sub>
 </div>
-
-
-
-
-
-
-
-
 
 
 
