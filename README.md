@@ -276,13 +276,19 @@ Performance
 
 ### 🤖 AI & COMPUTER VISION
 
-<p>
-<a href="https://gemini.google.com/app"><b>Google Gemini</b></a> ·
-<a href="https://opencv.org/"><b>OpenCV</b></a> ·
-
+<p align="center">
+  <a href="https://gemini.google.com/app">
+    <img src="https://cdn.simpleicons.org/googlegemini" alt="Google Gemini" height="30">
+    <br>
+    <b>Google Gemini</b>
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://opencv.org/">
+<img src="https://cdn.simpleicons.org/opencv" alt="OpenCV" height="30">
+<br>
+    <b>OpenCV</b>
+  </a>
 </p>
-
-<img src="https://skillicons.dev/icons?i=python,opencv&perline=5"/>
 
 <br>
 
