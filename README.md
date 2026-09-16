@@ -1,6 +1,7 @@
 
 
 
+
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:05070D,45:0D1117,75:102A20,100:238636&text=PRASENJIT%20SAHOO&fontColor=FFFFFF&fontSize=46&fontAlignY=38&desc=FULL-STACK%20DEVELOPER%20%2F%2F%20AI%20PRODUCT%20BUILDER&descColor=8B949E&descAlignY=61&descSize=16" width="100%"/>
@@ -422,19 +423,20 @@ Cloud
 
 ---
 
-# `06` — GITHUB SIGNAL
-
+06 — GITHUB SIGNAL
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Prasenjit-Sahoo18&show_icons=true&hide_border=true&theme=github_dark&bg_color=0D1117&title_color=58A6FF&icon_color=238636&text_color=C9D1D9&rank_icon=github" width="48%"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prasenjit-Sahoo18&layout=compact&hide_border=true&theme=github_dark&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8" width="40%"/>
+📊 GITHUB CONTRIBUTION GRAPH
+<a href="https://github.com/Prasenjit-Sahoo18"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Prasenjit-Sahoo18&theme=github_dark" width="98%" alt="GitHub Contribution Graph"/> </a>
 
 <br><br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Prasenjit-Sahoo18&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=FF7B72&currStreakLabel=58A6FF" width="70%"/>
+📈 GITHUB STATISTICS
+<a href="https://github.com/Prasenjit-Sahoo18"> <img src="https://github-readme-stats.vercel.app/api?username=Prasenjit-Sahoo18&show_icons=true&hide_border=true&theme=github_dark&bg_color=0D1117&title_color=58A6FF&icon_color=238636&text_color=C9D1D9&rank_icon=github" width="48%" alt="GitHub Stats"/> </a> <a href="https://github.com/Prasenjit-Sahoo18"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prasenjit-Sahoo18&layout=compact&hide_border=true&theme=github_dark&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8" width="40%" alt="Top Languages"/> </a>
 
-</div>
+<br><br>
+
+🔥 CONTRIBUTION STREAK
+<a href="https://github.com/Prasenjit-Sahoo18"> <img src="https://streak-stats.demolab.com/?user=Prasenjit-Sahoo18&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=FF7B72&currStreakLabel=58A6FF" width="70%" alt="GitHub Contribution Streak"/> </a> </div>
 
 ---
 
@@ -471,6 +473,9 @@ Cloud
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:238636,50:102A20,100:05070D" width="100%"/>
+
+
+
 
 
 
