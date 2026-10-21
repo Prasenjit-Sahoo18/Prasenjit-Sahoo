@@ -60,7 +60,7 @@
 
 **Cinema booking, end-to-end.**
 
-[![Demo](https://img.shields.io/badge/%E2%96%B6_Live-0D1B2A?style=flat-square&logo=googlechrome&logoColor=38BDF8)](https://cinepulse-9i9x.onrender.com)
+[![Demo](https://img.shields.io/badge/%E2%96%B6_Live-0D1B2A?style=flat-square&logo=googlechrome&logoColor=38BDF8)](https://cinepulse-7ajb.onrender.com)
 [![Code](https://img.shields.io/badge/%E2%8C%A5_Source-0D1B2A?style=flat-square&logo=github&logoColor=7DD3FC)](https://github.com/Prasenjit-Sahoo18/ShowPulse)
 
 > Discovery → Showtimes → **Seat Lock** → Checkout → QR Ticket
