@@ -1,8 +1,14 @@
 <div align="center">
 
 <a href="https://vybeon.onrender.com/" title="Open Vybeon live">
-  <img src="https://raw.githubusercontent.com/Prasenjit-Sahoo18/Prasenjit-Sahoo18/main/assets/dev-desk.svg" alt="Prasenjit coding Vybeon and VibeChat at his desk" width="100%"/>
+  <img src="./dev-desk.svg" alt="Prasenjit coding Vybeon and VibeChat at his desk" width="100%"/>
 </a>
+
+<br/>
+
+<img src="./images.dev.jpg" alt="Neon-lit illustration of Prasenjit at his developer desk" width="220"/>
+
+<br/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=2600&pause=800&color=B8FF00&center=true&vCenter=true&width=820&lines=Hi%2C+I'm+Prasenjit+Sahoo+%E2%80%94+full-stack+developer;I+build+real-time+apps%2C+streaming+platforms+%26+AI+products;Next.js+%C2%B7+TypeScript+%C2%B7+Node+%C2%B7+Socket.IO+%C2%B7+Prisma+%C2%B7+PostgreSQL;B.Tech+CSE+%40+ITER%2C+SOA+University+%E2%80%94+always+shipping"/>
 
@@ -277,4 +283,3 @@ build → break → learn → ship → repeat
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=110&color=0:7C3AED,50:00F5FF,100:B8FF00"/>
 
 </div>
-
