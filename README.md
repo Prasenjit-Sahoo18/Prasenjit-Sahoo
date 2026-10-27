@@ -202,13 +202,6 @@ Gemini-powered hints, remote code execution, OpenCV + MediaPipe camera proctorin
 </tr>
 </table>
 
-<div align="center">
-
-<a href="https://github.com/Prasenjit-Sahoo18/foodiez"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Prasenjit-Sahoo18&repo=foodiez&hide_border=true&bg_color=050505&title_color=B8FF00&icon_color=00F5FF&text_color=F5F5F5"/></a>
-<a href="https://github.com/Prasenjit-Sahoo18/Vybeon"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Prasenjit-Sahoo18&repo=Vybeon&hide_border=true&bg_color=050505&title_color=B8FF00&icon_color=00F5FF&text_color=F5F5F5"/></a>
-
-</div>
-
 <br/>
 
 <div align="center">
