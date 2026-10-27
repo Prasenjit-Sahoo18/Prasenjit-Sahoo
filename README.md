@@ -6,7 +6,7 @@
 
 <br/>
 
-<img src="./images.dev.jpg" alt="Neon-lit illustration of Prasenjit at his developer desk" width="220"/>
+
 
 <br/>
 
