@@ -184,7 +184,7 @@ flowchart LR
 
 `React` `TypeScript` `Node` `Express` `Prisma` `PostgreSQL`
 
-[▶ Live](https://cinepulse-7ajb.onrender.com) · [⌥ Code](https://github.com/Prasenjit-Sahoo18/ShowPulse)
+[▶ Live](https://cinepulse-1l25.onrender.com) · [⌥ Code](https://github.com/Prasenjit-Sahoo18/ShowPulse)
 
 </td>
 <td width="50%" valign="top">
